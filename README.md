@@ -1,4 +1,4 @@
-# README Audio Classification iPhone App
+# Audio Classification iPhone App
 
 
 
